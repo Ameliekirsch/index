@@ -1,0 +1,1 @@
+var manger="1";
